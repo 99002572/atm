@@ -1,6 +1,6 @@
 
-#ifndef __MACHINE_H__
-#define __MACHINE_H__
+#ifndef __MONEY_H__
+#define __MONEY_H__
 
 #include <stdio.h>
 #include <stdlib.h>
