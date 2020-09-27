@@ -85,3 +85,4 @@ printf("cash=%d w=%d",cash,deposit);
          printf("The remaining amount is:%d\n",money);
      }
  }
+
